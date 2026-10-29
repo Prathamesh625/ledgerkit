@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 safe-ledger-api
+# 🏦 LedgerKit - Transaction Ledger Service
 
 **A double-entry transaction ledger API where money moves safely, even with retries and simultaneous requests.**
 
